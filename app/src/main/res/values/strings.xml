@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">snapymemes</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="welcome_to_snapymemes">WELCOME TO SNAPYMEMES</string>
+    <string name="start"><![CDATA[START>>]]></string>
+</resources>
